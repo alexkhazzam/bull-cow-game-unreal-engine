@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "BullCowGameEditor Editor Mac Development (BullCowGame)",
+            "intelliSenseMode": "clang-x64",
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "compileCommands": "/Users/alex/Documents/code/UnrealEngine/BullCowGame-starter-kit/.vscode/compileCommands_BullCowGame.json"
+        }
+    ],
+    "version": 4
+}
